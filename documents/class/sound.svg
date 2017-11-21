@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="76.8px" preserveAspectRatio="none" style="width:187px;height:76px;" version="1.1" viewBox="0 0 187 76" width="187.8px" zoomAndPan="magnify"><defs><filter height="300%" id="f1wk2l3em5e8hc" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.2000000476837158"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="2.4000000953674316" dy="2.4000000953674316" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster Sound--><polygon fill="#FFFFFF" filter="url(#f1wk2l3em5e8hc)" points="13.2,14.4,44.4,14.4,48.6,26.4,183.6,26.4,183.6,72.6,13.2,72.6,13.2,14.4" style="stroke: #000000; stroke-width: 1.2000000476837158;"/><line style="stroke: #000000; stroke-width: 1.2000000476837158;" x1="13.2" x2="48.6" y1="26.4" y2="26.4"/><text fill="#000000" font-family="sans-serif" font-size="8.4" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="27.6" x="15.6" y="22.991">Sound</text><!--class Sound.BGMController--><rect fill="#FEFECE" filter="url(#f1wk2l3em5e8hc)" height="28.8" id="Sound.BGMController" style="stroke: #A80036; stroke-width: 0.9000000357627869;" width="69" x="104.7" y="34.2"/><ellipse cx="113.7" cy="43.8" fill="#ADD1B2" rx="6.6" ry="6.6" style="stroke: #A80036; stroke-width: 0.6000000238418579;"/><path d="M115.7344,44.9906 Q115.4813,47.9813 113.4938,47.9813 Q112.3219,47.9813 111.6938,46.7813 Q111.1688,45.7781 111.1688,44.0156 Q111.1688,42.2063 111.75,41.1469 Q112.35,40.0219 113.4938,40.0219 Q115.3125,40.0219 115.6875,42.6844 L114.4406,42.6844 Q114.225,41.2031 113.4938,41.2031 Q112.4531,41.2031 112.4531,44.0156 Q112.4531,46.8 113.5031,46.8 Q114.3656,46.8 114.4594,44.9906 L115.7344,44.9906 Z "/><text fill="#000000" font-family="sans-serif" font-size="7.2" lengthAdjust="spacingAndGlyphs" textLength="49.8" x="122.1" y="46.5352">BGMController</text><line style="stroke: #A80036; stroke-width: 0.9000000357627869;" x1="105.3" x2="173.1" y1="53.4" y2="53.4"/><line style="stroke: #A80036; stroke-width: 0.9000000357627869;" x1="105.3" x2="173.1" y1="58.2" y2="58.2"/><!--class Sound.SEController--><rect fill="#FEFECE" filter="url(#f1wk2l3em5e8hc)" height="28.8" id="Sound.SEController" style="stroke: #A80036; stroke-width: 0.9000000357627869;" width="60.6" x="23.1" y="34.2"/><ellipse cx="32.1" cy="43.8" fill="#ADD1B2" rx="6.6" ry="6.6" style="stroke: #A80036; stroke-width: 0.6000000238418579;"/><path d="M34.1344,44.9906 Q33.8813,47.9813 31.8938,47.9813 Q30.7219,47.9813 30.0938,46.7813 Q29.5688,45.7781 29.5688,44.0156 Q29.5688,42.2063 30.15,41.1469 Q30.75,40.0219 31.8938,40.0219 Q33.7125,40.0219 34.0875,42.6844 L32.8406,42.6844 Q32.625,41.2031 31.8938,41.2031 Q30.8531,41.2031 30.8531,44.0156 Q30.8531,46.8 31.9031,46.8 Q32.7656,46.8 32.8594,44.9906 L34.1344,44.9906 Z "/><text fill="#000000" font-family="sans-serif" font-size="7.2" lengthAdjust="spacingAndGlyphs" textLength="41.4" x="40.5" y="46.5352">SEController</text><line style="stroke: #A80036; stroke-width: 0.9000000357627869;" x1="23.7" x2="83.1" y1="53.4" y2="53.4"/><line style="stroke: #A80036; stroke-width: 0.9000000357627869;" x1="23.7" x2="83.1" y1="58.2" y2="58.2"/><!--
+@startuml
+
+namespace Sound {
+  class BGMController
+  class SEController
+}
+
+@enduml
+
+PlantUML version 1.2017.12(Thu Apr 27 01:06:36 JST 2017)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Java Version: 1.8.0_112-release-736-b21
+Operating System: Linux
+OS Version: 4.10.0-32-generic
+Default Encoding: UTF-8
+Language: ja
+Country: JP
+--></g></svg>
